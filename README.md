@@ -1,6 +1,6 @@
 # Power-BI-Project
 
-# Overview
+## Overview
 
 This Power BI business intelligence dashboard provides an interactive analysis of AdventureWorks, a fictional global manufacturing company specializing in cycling equipment and accessories. The dataset, derived from Microsoft's AdventureWorks sample databases, offers insights into key business areas, including Sales, Inventory, and Manufacturing.
 
