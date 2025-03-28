@@ -28,23 +28,23 @@ The project involved following key tasks:
 ### Executive Dashboard
 <img width="575" alt="Exec Dashboard" src="https://github.com/user-attachments/assets/b75b93ae-66e5-4c50-83fd-1e74d9053697" />
 
-Customer Details
+### Customer Details
 <img width="575" alt="Customer Detail" src="https://github.com/user-attachments/assets/405932c2-b924-42a6-8fbf-513f967dac31" />
 
-Product Details
+### Product Details
 <img width="573" alt="Product Detail" src="https://github.com/user-attachments/assets/f700fe7b-400d-48f2-9680-7d5b0dd9ccb2" />
 
-Key Influencers
+### Key Influencers
 <img width="575" alt="Key Influencers" src="https://github.com/user-attachments/assets/af9fcd49-8d30-4deb-8ecc-303fd84760b6" />
 
-Decomposition Tree
+### Decomposition Tree
 <img width="511" alt="Decomposition Tree" src="https://github.com/user-attachments/assets/21af7720-5353-41d8-b4cc-ed5607c0e67f" />
 
-Products Visuals
+### Products Visuals
 <img width="310" alt="Custom Visuals" src="https://github.com/user-attachments/assets/5c9549d8-03a1-4f14-9471-29c66aa48070" />
 
-Map
+### Map
 <img width="574" alt="Map" src="https://github.com/user-attachments/assets/5c09542a-7fc3-4687-9bee-79b2326535b0" />
 
-Category Tooltip
+### Category Tooltip
 <img width="193" alt="Category tooltip" src="https://github.com/user-attachments/assets/a9264d2f-2bd1-4065-92e0-f4ce8ed5673e" />
