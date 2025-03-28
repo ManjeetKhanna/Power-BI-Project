@@ -15,3 +15,7 @@ Key aspects of this analysis include:
 - Dynamic Data Visualization, utilizing DAX measures to drive meaningful business insights.
 
 This dashboard demonstrates the power of Power BI in transforming raw business data into actionable intelligence for better decision-making.
+
+## Model View
+![image](https://github.com/user-attachments/assets/154496ab-0748-41e5-97c4-53f358618961)
+
