@@ -25,7 +25,7 @@ The project involved following key tasks:
 - [SQL Server]([url](https://www.microsoft.com/en-us/sql-server/sql-server-downloads))
 
 ## Report
-Executive Dashboard
+### Executive Dashboard
 <img width="575" alt="Exec Dashboard" src="https://github.com/user-attachments/assets/b75b93ae-66e5-4c50-83fd-1e74d9053697" />
 
 Customer Details
