@@ -21,8 +21,8 @@ The project involved following key tasks:
 - Identify high-value customers.
 
 ## Built With
-- [Power BI]([url](https://www.microsoft.com/en-us/power-platform/products/power-bi/))
-- [SQL Server]([url](https://www.microsoft.com/en-us/sql-server/sql-server-downloads))
+- [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ## Report
 ### Executive Dashboard
